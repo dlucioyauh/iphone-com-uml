@@ -13,6 +13,9 @@ Este projeto é uma simulação de funcionalidades básicas de um iPhone, inclui
   - `com/dlucioYauh/iphone/`
     - `iphone.fxml`: Arquivo FXML que define a interface gráfica.
 
+## Diagrama UML
+
+![Diagrama UML](https://github.com/dlucioyauh/iphone-com-uml/blob/main/diagrama.png)
 
 ## Pré-requisitos
 
@@ -53,10 +56,8 @@ Este projeto é uma simulação de funcionalidades básicas de um iPhone, inclui
 
 3. **Execute a aplicação**
 
-## Diagrama UML
+      Execute a classe Main para iniciar a aplicação.
+      
+## Autor
 
-
-
-
-
-
+  Douglas Lucio
