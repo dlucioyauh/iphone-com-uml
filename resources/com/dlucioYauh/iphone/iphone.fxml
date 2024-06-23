@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.dlucioYauh.iphone.controller.iPhoneController">
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+    <Button fx:id="playButton" text="Play Music" onAction="#playMusic"/>
+    <Button fx:id="callButton" text="Make Call" onAction="#makeCall"/>
+    <Button fx:id="browseButton" text="Browse Internet" onAction="#browseInternet"/>
+</VBox>

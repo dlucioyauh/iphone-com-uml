@@ -1,0 +1,20 @@
+@startuml
+   package com.dlucioYauh.iphone.controller {
+       class iPhoneController {
+           - Button playButton
+           - Button callButton
+           - Button browseButton
+           + void playMusic()
+           + void makeCall()
+           + void browseInternet()
+       }
+   }
+
+   package com.dlucioYauh.iphone {
+       class Main {
+           + void start(Stage)
+       }
+   }
+
+   Main --> iPhoneController
+   @enduml
