@@ -47,3 +47,16 @@ Este projeto é uma simulação de funcionalidades básicas de um iPhone, inclui
    ```sh
    git clone https://github.com/dlucioyauh/iphone-com-uml.git
    cd iphone-com-uml
+   ```
+
+2. **Importe o projeto na sua IDE.**
+
+3. **Execute a aplicação**
+
+## Diagrama UML
+
+
+
+
+
+
